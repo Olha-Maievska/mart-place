@@ -1,0 +1,22 @@
+//@import "../../node_modules/normalize.css/normalize";
+//@import "../../node_modules/slick-carousel/slick/slick";
+//@import "../../node_modules/magnific-popup/dist/magnific-popup";
+
+//@import "vars";
+//@import "libs";
+//@import "fonts";
+//@import "media";
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    display: flex;
+}
